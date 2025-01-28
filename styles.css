@@ -1,0 +1,28 @@
+body{
+  padding: 25px;
+  display:flex;
+justify-content:center;
+align-items:center;
+  color: #FFF;
+  background-color:#000;
+}
+.title {
+	color: #FFF;
+	font-size:3.5rem;
+}
+
+.txtBox{
+  overflow:scroll;
+  position:fixed;
+  text-indent:2rem;
+  padding:1.5rem;
+  top:30vh;
+  background-color:#FFF;
+  color:#333;
+  width:30vw;
+  height:40vh;
+}
+
+.boxTxt{
+   text-indent:2rem;
+}
